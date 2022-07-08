@@ -53,6 +53,7 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_directory_selection": "C:/Users/User/Desktop/repa/sandbox/src/main/java",
     "last_opened_file_path": "C:/Users/User/Desktop/repa/sandbox/build.gradle",
     "project.structure.last.edited": "Modules",
     "project.structure.proportion": "0.15",
@@ -61,8 +62,8 @@
   }
 }]]></component>
   <component name="RunManager">
-    <configuration name="MyFirstProgram" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="MyFirstProgram" />
+    <configuration name="ru.stqa.pft.sandbox.MyFirstProgram" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ru.stqa.pft.sandbox.MyFirstProgram" />
       <module name="sandbox.main" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -70,7 +71,7 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.MyFirstProgram" />
+        <item itemvalue="Application.ru.stqa.pft.sandbox.MyFirstProgram" />
       </list>
     </recent_temporary>
   </component>
